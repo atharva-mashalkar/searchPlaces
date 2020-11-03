@@ -1,10 +1,11 @@
 # Search Places
 
-#Instructions for running code.
+Instructions for running code.
 
 1. Clone the repo.
-2. Run "npm install" on terminal/command prompt to install the dependencies.
-3. Run "node index.js" on terminal/command prompt to run the program.
+2. Run "cd searchPlaces" on termical/command prompt to navigate to the folder.
+3. Run "npm install" on terminal/command prompt to install the dependencies.
+4. Run "node index.js" on terminal/command prompt to run the program.
 
 NOTE:- The api key gets expired within 2 hours, so before running the project either generate new api key from registering at the below provided link or whatsapp me, I will provide you a new key. Paste the key in the api_key.js file which is inside the config folder.
 
