@@ -1,0 +1,21 @@
+{
+  "name": "google_placesearch",
+  "version": "1.0.0",
+  "description": "Get location information of the place you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Place",
+    "Search"
+  ],
+  "author": "Atharva Mashalkar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-geocoder": "^3.27.0",
+    "q": "^1.5.1",
+    "readline": "^1.3.0"
+  }
+}
